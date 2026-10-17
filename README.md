@@ -6,6 +6,9 @@ uses live data from NASA.
 
 ![The dashboard on 16 October 2026: 50 close approaches in the coming week](screenshot.png)
 
+There is also a short narrated film about what the data actually says:
+[`video/asteroids_passing_earth.mp4`](video/asteroids_passing_earth.mp4).
+
 ## Run it
 
 ```bash
