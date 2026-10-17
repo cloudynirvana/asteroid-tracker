@@ -1,0 +1,8 @@
+Fifty one asteroids pass close to Earth in the next seven days. Nobody is going to mention it on the news.
+I asked NASA's near Earth object service for the whole next year. One thousand nine hundred and fifty three scheduled close approaches. More than five a day, every day.
+The closest of them is this one. Nineteen ninety nine AN ten, on the seventh of August twenty twenty seven, passing at one point zero one lunar distances. Just outside the orbit of the Moon.
+And it is not small. Somewhere between six hundred and fifty three and fourteen hundred and fifty nine metres across. Which brings up the thing nobody tells you about asteroid sizes.
+Nobody has measured these rocks. The size comes from how bright they look, so NASA publishes a range, and the range is often a factor of two. Every bar here is one asteroid, and the bar is how much we do not know.
+Two hundred and thirty three of this year's visitors are flagged potentially hazardous. That label means two things only. At least a hundred and forty metres across, and an orbit that comes within seven and a half million kilometres of ours. It is a watch list. It is not a prediction.
+Now the honest part. Out of nineteen hundred and fifty three approaches, not one of them comes closer than the Moon. That is not because nothing will. It is because the ones that pass that close are small, and we usually find them a few days before they arrive.
+So the calendar is only ever as good as the catalogue. Everything in this film came from NASA's live feed, and the code to rebuild it is on GitHub.
